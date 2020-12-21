@@ -1,0 +1,29 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6467#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 9. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    42
+    Correct output:
+    4
+
+    Your code output:
+
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 4, in <module>
+        value = integer // 10
+    TypeError: unsupported operand type(s) for //: 'str' and 'int'
+  time: Mon, 21 Dec 2020 11:16:46 UTC
+record: -1
